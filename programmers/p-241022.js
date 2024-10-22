@@ -1,3 +1,5 @@
+// lv.1 가장 가까운 같은 글자
+
 function solution(s) {
   var answer = [];
   let j=0;
